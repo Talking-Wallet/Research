@@ -11,7 +11,10 @@ Creating a knowledge base for your AI-powered Bitcoin wallet with an automated c
 #### A. Overview
 
 ```
-Product Vision: A brief description of the wallet's purpose, features, and the problem it solves for non-technical users.
+Product Vision:
+    A brief description of the wallet's purpose,
+    features,
+    and the problem it solves for non-technical users.
 
 Key Features:
     AI Concierge Service: How it assists users.
